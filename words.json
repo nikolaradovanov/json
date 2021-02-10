@@ -1,0 +1,64 @@
+{
+	"words": [{
+			"id": 0,
+			"word": "Banana"
+		},
+		{
+			"id": 1,
+			"word": "Jabuka"
+		},
+		{
+			"id": 2,
+			"word": "Mango"
+		},
+		{
+			"id": 3,
+			"word": "Avokado"
+		},
+		{
+			"id": 4,
+			"word": "Ananas"
+		},
+		{
+			"id": 5,
+			"word": "Kivi"
+		},
+		{
+			"id": 6,
+			"word": "Jagoda"
+		},
+		{
+			"id": 7,
+			"word": "Paradajz"
+		},
+
+		{
+			"id": 8,
+			"word": "Maslina"
+		},
+		{
+			"id": 9,
+			"word": "Krastavac"
+		},
+		{
+			"id": 10,
+			"word": "Paprika"
+		},
+		{
+			"id": 11,
+			"word": "Grejpfrut"
+		},
+		{
+			"id": 12,
+			"word": "Limun"
+		},
+		{
+			"id": 13,
+			"word": "Tikva"
+		},
+		{
+			"id": 14,
+			"word": "Bundeva"
+		}
+	]
+}
