@@ -1,64 +1,64 @@
 {
 	"words": [{
 			"id": 0,
-			"word": "Banana"
+			"word": "BANANA"
 		},
 		{
 			"id": 1,
-			"word": "Jabuka"
+			"word": "JABUKA"
 		},
 		{
 			"id": 2,
-			"word": "Mango"
+			"word": "MANGO"
 		},
 		{
 			"id": 3,
-			"word": "Avokado"
+			"word": "AVOKADO"
 		},
 		{
 			"id": 4,
-			"word": "Ananas"
+			"word": "ANANAS"
 		},
 		{
 			"id": 5,
-			"word": "Kivi"
+			"word": "KIVI"
 		},
 		{
 			"id": 6,
-			"word": "Jagoda"
+			"word": "JAGODA"
 		},
 		{
 			"id": 7,
-			"word": "Paradajz"
+			"word": "PARADAJZ"
 		},
 
 		{
 			"id": 8,
-			"word": "Maslina"
+			"word": "MASLINA"
 		},
 		{
 			"id": 9,
-			"word": "Krastavac"
+			"word": "KRASTAVAC"
 		},
 		{
 			"id": 10,
-			"word": "Paprika"
+			"word": "PAPRIKA"
 		},
 		{
 			"id": 11,
-			"word": "Grejpfrut"
+			"word": "GREJPFRUT"
 		},
 		{
 			"id": 12,
-			"word": "Limun"
+			"word": "LIMUN"
 		},
 		{
 			"id": 13,
-			"word": "Tikva"
+			"word": "TIKVA"
 		},
 		{
 			"id": 14,
-			"word": "Bundeva"
+			"word": "BUNDEVA"
 		}
 	]
 }
